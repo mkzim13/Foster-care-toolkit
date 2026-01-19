@@ -57,10 +57,12 @@ We built the toolkit using Google Sites, which offered an accessible, user‑fri
 - [Screenshots - 1](./screenshot/screen1.png)
 - [Screenshots - 2](./screenshot/screen2.png)
 - [Screenshots - 3](./screenshot/screen3.png)
-
+- [Screenshots - 4](./screenshot/screen4.png)
+- 
 ---
 
 ## Reflection
 
 This project reinforced the importance of designing instructional materials that balance clarity, accessibility, and emotional support. New foster parents face a steep learning curve during the first month of placement, and providing a centralized, easy‑to‑navigate resource can significantly reduce stress and confusion. The project also highlighted the value of collaborative tools, iterative refinement, and thoughtful audience analysis—skills that translate directly to professional technical communication.
+
 
